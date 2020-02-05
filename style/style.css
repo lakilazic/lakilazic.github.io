@@ -96,10 +96,11 @@ grey rgba(204, 204, 204);
 #citat {
 	width: 500px;
 	background-color: rgba(204, 204, 204, 0.2);
-	margin: 110px 0px 0px 700px;
 	padding: 20px;
 	color: rgba(255, 102, 0);
 	border: 1px solid rgba(204, 204, 204);
+	margin-top: 60px;
+	margin-right: 20px;
 }
 #citat a {
 	padding-left: 350px;
