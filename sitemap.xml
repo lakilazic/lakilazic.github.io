@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>index.html</loc>
+      <loc>https://lakilazic.github.io/index.html</loc>
       <lastmod>2020-02-02</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>izumi.html</loc>
+      <loc>https://lakilazic.github.io/izumi.html</loc>
       <lastmod>2020-02-02</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>galerija.html</loc>
+      <loc>https://lakilazic.github.io/galerija.html</loc>
       <lastmod>2020-02-02</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>zanimljivosti.html</loc>
+      <loc>https://lakilazic.github.io/zanimljivosti.html</loc>
       <lastmod>2020-02-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
    </url>
    <url>
-      <loc>autor.html</loc>
+      <loc>https://lakilazic.github.io/autor.html</loc>
       <lastmod>2020-02-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
